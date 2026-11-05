@@ -1,0 +1,11 @@
+{
+  "name": "advanced",
+  "description": "Advanced student: every concept is easy, every quiz score is high, and the exam is 14 days away.",
+  "start_date": "2026-12-01",
+  "exam_date": "2026-12-15",
+  "concepts": [
+    {"id": 1, "name": "Sorting algorithms", "difficulty": "easy", "quiz_score": 91},
+    {"id": 2, "name": "Recursion", "difficulty": "easy", "quiz_score": 88},
+    {"id": 3, "name": "Big-O analysis", "difficulty": "easy", "quiz_score": 95}
+  ]
+}

@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Test and coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Google Calendar secrets (never commit these)
+credentials.json
+token.json
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store

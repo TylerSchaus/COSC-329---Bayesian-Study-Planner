@@ -1,0 +1,11 @@
+{
+  "name": "struggling",
+  "description": "Struggling student: every concept is hard, every quiz score is low, and the exam is 3 days away.",
+  "start_date": "2026-12-01",
+  "exam_date": "2026-12-04",
+  "concepts": [
+    {"id": 1, "name": "Eigenvalues", "difficulty": "hard", "quiz_score": 45},
+    {"id": 2, "name": "Vector spaces", "difficulty": "hard", "quiz_score": 38},
+    {"id": 3, "name": "Linear transformations", "difficulty": "hard", "quiz_score": 52}
+  ]
+}

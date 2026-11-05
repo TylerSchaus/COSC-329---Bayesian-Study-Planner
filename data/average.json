@@ -1,0 +1,11 @@
+{
+  "name": "average",
+  "description": "Average student: every concept is hard, but every quiz score is high, and the exam is 3 days away.",
+  "start_date": "2026-12-01",
+  "exam_date": "2026-12-04",
+  "concepts": [
+    {"id": 1, "name": "Bayesian inference", "difficulty": "hard", "quiz_score": 78},
+    {"id": 2, "name": "Expected utility", "difficulty": "hard", "quiz_score": 74},
+    {"id": 3, "name": "Dynamic Bayes nets", "difficulty": "hard", "quiz_score": 82}
+  ]
+}

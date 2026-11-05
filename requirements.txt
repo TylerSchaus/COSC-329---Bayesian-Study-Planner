@@ -1,0 +1,10 @@
+# Python 3.11+
+# Core model and inference (installs numpy and pandas automatically)
+pgmpy>=1.0,<1.1
+
+# Testing
+pytest>=8.0
+
+# Network diagram and report charts
+networkx>=3.0
+matplotlib>=3.8
