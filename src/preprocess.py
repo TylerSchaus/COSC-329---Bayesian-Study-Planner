@@ -4,6 +4,7 @@ import datetime
 DIFFICULTY_STATES = ["easy", "hard"]
 LEVEL_STATES = ["low", "high"] 
 DAYS_STATES = ["few", "some", "many"] 
+CONCEPTS = [1, 2, 3]
 
 QUIZ_CUTOFF = 70 
 DAYS_FEW_MAX = 3 
